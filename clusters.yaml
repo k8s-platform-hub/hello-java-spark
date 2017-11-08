@@ -3,5 +3,5 @@
     configmap: controller-conf
     namespace: hasura
   data: null
-  kubeContext: h34-hoariness51-stg
-  name: h34-hoariness51-stg
+  kubeContext: h34-ability88-stg
+  name: h34-ability88-stg
