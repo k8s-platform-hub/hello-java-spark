@@ -1,4 +1,4 @@
 description: A basic java web application using the spark framework running on Hasura
-keywords: java, spark
+keywords: getting-started, java, spark
 name: hello-java-spark
 platformVersion: v0.15.3
